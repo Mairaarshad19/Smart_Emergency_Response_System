@@ -2,6 +2,9 @@
 bin/
 obj/
 
+# Visual Studio cache
+.vs/
+
 # User-specific files
 *.user
 *.suo
@@ -9,9 +12,5 @@ obj/
 # Logs
 *.log
 
-# Visual Studio cache
-.vs/
-
-# Temporary files
-*.tmp
-*.cache
+# Packages (NuGet)
+packages/
