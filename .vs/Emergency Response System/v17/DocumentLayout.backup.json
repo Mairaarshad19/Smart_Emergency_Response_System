@@ -1,0 +1,1976 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\operatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\operatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\operatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\operatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\pickfastestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\pickfastestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|c:\\users\\user\\documents\\3rd semester\\dsal\\finals\\emergency response system\\emergency response system\\ui\\filteremergencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\filteremergencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\ambulancedispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\ambulancedispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\update_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\update_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\update_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\update_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\mapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\mapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\managingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\managingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\manage_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\manage_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\findnearestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\findnearestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\findcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\findcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\findambulanciesatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\findambulanciesatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\emergencylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\emergencylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\emergencycall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\emergencycall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\delete_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\delete_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\delete_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\delete_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|c:\\users\\user\\documents\\3rd semester\\dsal\\finals\\emergency response system\\emergency response system\\ui\\ambulancesinstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\ambulancesinstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\ambulancelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\ambulancelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\amblocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\amblocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\manage_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\manage_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\managingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\managingstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|c:\\users\\user\\documents\\3rd semester\\dsal\\finals\\emergency response system\\emergency response system\\ui\\ambulancesinstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\ambulancesinstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|c:\\users\\user\\documents\\3rd semester\\dsal\\finals\\emergency response system\\emergency response system\\helpers\\severityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\helpers\\severityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\helpers\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\helpers\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\helpers\\graphalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\helpers\\graphalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\helpers\\maphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\helpers\\maphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\helpers\\geohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\helpers\\geohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\helpers\\distancehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\helpers\\distancehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\stationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\stationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\routesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\routesdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\roaddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\roaddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\intersectiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\intersectiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\emergencydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\emergencydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\dispatchdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\dispatchdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\dl\\ambulancedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\dl\\ambulancedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\stationnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\stationnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\stationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\stationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\stationavltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\stationavltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\routeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\routeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\routebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\routebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\roadnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\roadnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\roadbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\roadbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\intersectionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\intersectionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\idindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\idindexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\graphbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\graphbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\hashnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\hashnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\emergencybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\emergencybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\dispatchbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\dispatchbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\citygraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\citygraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\assignmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\assignmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\ambulancepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\ambulancepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\ambulancelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\ambulancelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\ambulancelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\ambulancelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\ambulancefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\ambulancefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\ambulancebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\ambulancebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\update_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\update_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\update_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\update_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|c:\\users\\user\\documents\\3rd semester\\dsal\\finals\\emergency response system\\emergency response system\\ui\\filteremergencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\filteremergencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\pickfastestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\pickfastestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\mapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\mapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\google_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\google_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\google_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\google_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\findnearestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\findnearestambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\findcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\findcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\findambulanciesatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\findambulanciesatlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\emergencylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\emergencylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\emergencycall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\emergencycall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\delete_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\delete_station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\delete_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\delete_ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\ambulancelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\ambulancelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\ambulancedispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\ambulancedispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\amblocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\amblocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\traffic_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\traffic_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\station_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\station_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\sort_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\sort_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\route_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\route_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\road_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\road_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\lookupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\lookupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\intersection_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\intersection_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\emergencypriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\emergencypriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\emergency_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\emergency_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\dispatch_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\dispatch_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\ambulance_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\ambulance_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\managers\\ambulance_assignment_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\managers\\ambulance_assignment_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\manage_ambulance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\manage_ambulance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\update_ambulance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\update_ambulance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\map.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\map.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\map.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\map.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\dsa\\stationentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\dsa\\stationentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\bl\\dsa\\stationhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\bl\\dsa\\stationhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\manage_ambulance.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\manage_ambulance.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emergency Response System\\UI\\ui\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\emergencycall.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\emergencycall.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B0B2E-C2A9-48CC-BF6D-A68364DCB5EF}|Emergency Response System\\Emergency Response System.csproj|solutionrelative:emergency response system\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\RouteManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emergency Response System\\Managers\\RouteManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\IntersectionNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emergency Response System\\BL\\IntersectionNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emergency Response System\\UI\\ui\\FindCoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emergency Response System\\UI\\ui\\FindCoverage.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:emergency response system\\ui\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\emergency response system\\ui\\ui\\findcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:emergency response system\\ui\\ui\\findcoverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emergency Response System\\UI\\ui\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\RouteDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emergency Response System\\DL\\RouteDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update_Station.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Station.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Update_Station.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Station.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\Update_Station.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:37:33.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AmbulanceDispatch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceDispatch.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbulanceDispatch.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceDispatch.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbulanceDispatch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:41:07.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatorDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\OperatorDashboard.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\OperatorDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\OperatorDashboard.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\OperatorDashboard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:47:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterEmergencies.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FilterEmergencies.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FilterEmergencies.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FilterEmergencies.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\FilterEmergencies.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:51:03.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Program.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Program.cs",
+              "RelativeToolTip": "Emergency Response System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:12:49.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperatorDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\OperatorDashboard.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\OperatorDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\OperatorDashboard.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\OperatorDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:40:08.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PickFastestAmbulance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\PickFastestAmbulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\PickFastestAmbulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\PickFastestAmbulance.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\PickFastestAmbulance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:02:02.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update_Ambulance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Ambulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Update_Ambulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Ambulance.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\Update_Ambulance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:28:54.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MapControl.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\MapControl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MapControl.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\MapControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:09:25.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagingStation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ManagingStation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ManagingStation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ManagingStation.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\ManagingStation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:18:58.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manage_Ambulance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Manage_Ambulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\Manage_Ambulance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:39:06.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FindNearestAmbulance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindNearestAmbulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FindNearestAmbulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindNearestAmbulance.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\FindNearestAmbulance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:56:55.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FindCoverage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindCoverage.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FindCoverage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindCoverage.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\FindCoverage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:09:52.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FindAmbulanciesAtLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:25:35.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmergencyLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\EmergencyLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyLocation.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\EmergencyLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:15:35.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmergencyCall.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyCall.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\EmergencyCall.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyCall.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\EmergencyCall.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:07:37.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete_Station.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Station.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Delete_Station.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Station.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\Delete_Station.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:21:58.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete_Ambulance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Ambulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Delete_Ambulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Ambulance.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\Delete_Ambulance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:39:45.003Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AmbulancesInStation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulancesInStation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbulancesInStation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulancesInStation.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbulancesInStation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:56:50.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AmbulanceLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbulanceLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceLocation.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbulanceLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:24:01.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AmbLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbLocation.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:15:02.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Admin_Dashboard.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:03:26.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Admin_Dashboard.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Admin_Dashboard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:26:03.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Manage_Ambulance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Manage_Ambulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Manage_Ambulance.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADgv7EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:51:28.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManagingStation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ManagingStation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ManagingStation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ManagingStation.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\ManagingStation.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAEwMQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:26:21.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AmbulancesInStation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulancesInStation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbulancesInStation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulancesInStation.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbulancesInStation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:58:10.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Helpers\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "Emergency Response System\\Helpers\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:59:26.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SeverityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\SeverityHelper.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Helpers\\SeverityHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\SeverityHelper.cs",
+              "RelativeToolTip": "Emergency Response System\\Helpers\\SeverityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:58:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\PathHelper.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Helpers\\PathHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\PathHelper.cs",
+              "RelativeToolTip": "Emergency Response System\\Helpers\\PathHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:32:00.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GraphAlgorithms.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\GraphAlgorithms.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Helpers\\GraphAlgorithms.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\GraphAlgorithms.cs",
+              "RelativeToolTip": "Emergency Response System\\Helpers\\GraphAlgorithms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:09:01.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MapHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\MapHelper.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Helpers\\MapHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\MapHelper.cs",
+              "RelativeToolTip": "Emergency Response System\\Helpers\\MapHelper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwCUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:23:02.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GeoHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\GeoHelper.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Helpers\\GeoHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\GeoHelper.cs",
+              "RelativeToolTip": "Emergency Response System\\Helpers\\GeoHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:39:23.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DistanceHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\DistanceHelper.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Helpers\\DistanceHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Helpers\\DistanceHelper.cs",
+              "RelativeToolTip": "Emergency Response System\\Helpers\\DistanceHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:32:20.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\UserDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\UserDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\UserDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\UserDL.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAEwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:58:26.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StationDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\StationDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\StationDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\StationDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\StationDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:06:58.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoutesDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\RoutesDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\RoutesDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\RoutesDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\RoutesDL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:49:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoadDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\RoadDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\RoadDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\RoadDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\RoadDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:55:54.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IntersectionDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\IntersectionDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\IntersectionDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\IntersectionDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\IntersectionDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T19:04:46.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmergencyDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\EmergencyDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\EmergencyDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\EmergencyDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\EmergencyDL.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAADgv6YAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:45:59.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DispatchDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\DispatchDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\DispatchDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\DispatchDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\DispatchDL.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAEwG4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:58:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AmbulanceDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\AmbulanceDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\AmbulanceDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\AmbulanceDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\AmbulanceDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:07:55.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\Vertex.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\Vertex.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\Vertex.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:31:38.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\UserBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\UserBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\UserBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\UserBL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA4wA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:58:05.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StationNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\StationNode.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\StationNode.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\StationNode.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\StationNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:52:17.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StationBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\StationBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\StationBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\StationBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\StationBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:57:50.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StationAVLTree.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\StationAVLTree.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\StationAVLTree.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\StationAVLTree.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\StationAVLTree.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAADgvxIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:53:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RouteResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RouteResult.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\RouteResult.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RouteResult.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\RouteResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:57:22.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RouteBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RouteBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\RouteBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RouteBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\RouteBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:56:45.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoadNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RoadNode.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\RoadNode.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RoadNode.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\RoadNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:53.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RoadBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RoadBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\RoadBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\RoadBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\RoadBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:53:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\MinHeap.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\MinHeap.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\MinHeap.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\MinHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:20:35.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\LinkedList.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\LinkedList.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\LinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:20:33.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IntersectionBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\IntersectionBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\IntersectionBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\IntersectionBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\IntersectionBL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T16:04:02.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IdIndexer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\IdIndexer.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\IdIndexer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\IdIndexer.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\IdIndexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T08:47:18.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\HashTable.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\HashTable.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\HashTable.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\HashTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:46:13.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GraphBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\GraphBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\GraphBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\GraphBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\GraphBL.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAEwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:24:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HashNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\HashNode.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\HashNode.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\HashNode.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\HashNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:47:33.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EmergencyBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\EmergencyBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\EmergencyBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\EmergencyBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\EmergencyBL.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAvwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:45:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\Edge.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\Edge.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\Edge.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:22:21.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DispatchBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\DispatchBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\DispatchBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\DispatchBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\DispatchBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:57:40.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Dijkstra.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\Dijkstra.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\Dijkstra.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\Dijkstra.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\Dijkstra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:07:22.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CityGraph.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\CityGraph.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\CityGraph.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\CityGraph.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\CityGraph.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAEwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:01:21.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AssignmentRecord.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AssignmentRecord.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\AssignmentRecord.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AssignmentRecord.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\AssignmentRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:57:02.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AmbulancePriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulancePriorityQueue.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\AmbulancePriorityQueue.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulancePriorityQueue.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\AmbulancePriorityQueue.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwDcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:39:55.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AmbulanceLocation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\AmbulanceLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceLocation.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\AmbulanceLocation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:46:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AmbulanceLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceLinkedList.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\AmbulanceLinkedList.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceLinkedList.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\AmbulanceLinkedList.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:38:30.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AmbulanceFinder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceFinder.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\AmbulanceFinder.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceFinder.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\AmbulanceFinder.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAASwD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:40:26.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AmbulanceBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceBL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\AmbulanceBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\AmbulanceBL.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\AmbulanceBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:07:38.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Update_Station.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Station.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Update_Station.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Station.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Update_Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:41:06.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Update_Ambulance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Ambulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Update_Ambulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Ambulance.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Update_Ambulance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:40:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FilterEmergencies.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FilterEmergencies.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FilterEmergencies.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FilterEmergencies.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\FilterEmergencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:01:29.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PickFastestAmbulance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\PickFastestAmbulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\PickFastestAmbulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\PickFastestAmbulance.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\PickFastestAmbulance.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAASwJ8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:03:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MapControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MapControl.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\MapControl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MapControl.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\MapControl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:10:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MainForm.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\MainForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:15:39.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:13:40.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\LoginForm.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:16:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:51:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Google_Map.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Google_Map.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Google_Map.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Google_Map.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Google_Map.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:49:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Google_Map.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Google_Map.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Google_Map.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Google_Map.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\Google_Map.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:37:15.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FindNearestAmbulance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindNearestAmbulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FindNearestAmbulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindNearestAmbulance.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\FindNearestAmbulance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:58:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FindCoverage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindCoverage.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FindCoverage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindCoverage.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\FindCoverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:12:44.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "FindAmbulanciesAtLocation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\FindAmbulanciesAtLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:01:56.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "EmergencyLocation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\EmergencyLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyLocation.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\EmergencyLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:18:39.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "EmergencyCall.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyCall.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\EmergencyCall.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyCall.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\EmergencyCall.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgv3UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:49:11.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Delete_Station.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Station.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Delete_Station.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Station.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Delete_Station.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:28:10.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Delete_Ambulance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Ambulance.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Delete_Ambulance.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Delete_Ambulance.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Delete_Ambulance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:40:30.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AmbulanceLocation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbulanceLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceLocation.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbulanceLocation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:26:26.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AmbulanceDispatch.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceDispatch.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbulanceDispatch.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbulanceDispatch.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbulanceDispatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:45:11.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AmbLocation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbLocation.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\AmbLocation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\AmbLocation.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\AmbLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:15:56.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Traffic_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Traffic_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Traffic_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Traffic_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Traffic_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:41:16.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Station_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Station_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Station_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Station_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Station_Manager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADgvzAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:38:04.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Sort_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Sort_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Sort_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Sort_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Sort_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:52:08.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Route_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Route_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Route_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Route_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Route_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:34:37.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Road_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Road_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Road_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Road_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Road_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:56:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "LookupManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\LookupManager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\LookupManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\LookupManager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\LookupManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T19:02:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Intersection_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Intersection_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Intersection_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Intersection_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Intersection_Manager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:23:22.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "EmergencyPriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\EmergencyPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\EmergencyPriorityQueue.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\EmergencyPriorityQueue.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\EmergencyPriorityQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:22:58.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Emergency_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Emergency_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Emergency_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Emergency_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Emergency_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvx4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:27:29.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Dispatch_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Dispatch_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Dispatch_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Dispatch_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Dispatch_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T18:38:51.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Ambulance_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Ambulance_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Ambulance_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Ambulance_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Ambulance_Manager.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAASwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:37:41.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Ambulance_Assignment_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Ambulance_Assignment_Manager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\Ambulance_Assignment_Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\Ambulance_Assignment_Manager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\Ambulance_Assignment_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:57:39.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\packages.config",
+              "RelativeDocumentMoniker": "Emergency Response System\\packages.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\packages.config",
+              "RelativeToolTip": "Emergency Response System\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-04T14:06:13.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Manage_Ambulance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.Designer.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Manage_Ambulance.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.Designer.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Manage_Ambulance.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAqwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:53:00.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Update_Ambulance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Ambulance.Designer.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Update_Ambulance.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Update_Ambulance.Designer.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Update_Ambulance.Designer.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAASwL4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:29:19.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "map.html",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\map.html",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\map.html",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\map.html",
+              "RelativeToolTip": "Emergency Response System\\UI\\map.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-04T10:40:20.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "map.js",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\map.js",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\map.js",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\map.js",
+              "RelativeToolTip": "Emergency Response System\\UI\\map.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-04T08:11:16.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "StationEntry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\DSA\\StationEntry.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\DSA\\StationEntry.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\DSA\\StationEntry.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\DSA\\StationEntry.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:20:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "StationHashTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\DSA\\StationHashTable.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\DSA\\StationHashTable.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\DSA\\StationHashTable.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\DSA\\StationHashTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:20:42.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Manage_Ambulance.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.resx",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Manage_Ambulance.resx",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Manage_Ambulance.resx",
+              "RelativeToolTip": "Emergency Response System\\UI\\Manage_Ambulance.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-03T13:53:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "RouteDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\RouteDL.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\DL\\RouteDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\DL\\RouteDL.cs",
+              "RelativeToolTip": "Emergency Response System\\DL\\RouteDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:57:05.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\MainForm.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ui\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\MainForm.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\ui\\MainForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAASwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:22:03.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ui\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\LoginForm.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\ui\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:20:44.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "FindCoverage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ui\\FindCoverage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\ui\\FindCoverage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:20:55.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ui\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Emergency Response System\\UI\\ui\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:21:01.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "FindCoverage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.Designer.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ui\\FindCoverage.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.Designer.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\ui\\FindCoverage.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:21:26.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "FindCoverage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\ui\\FindCoverage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\ui\\FindCoverage.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\ui\\FindCoverage.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAvwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:21:42.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "RouteManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\RouteManager.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\Managers\\RouteManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\Managers\\RouteManager.cs",
+              "RelativeToolTip": "Emergency Response System\\Managers\\RouteManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:57:31.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "IntersectionNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\IntersectionNode.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\BL\\IntersectionNode.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\BL\\IntersectionNode.cs",
+              "RelativeToolTip": "Emergency Response System\\BL\\IntersectionNode.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:59:55.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Admin_Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Admin_Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\Admin_Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\Admin_Dashboard.Designer.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\Admin_Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:22:32.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "EmergencyCall.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyCall.Designer.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\EmergencyCall.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\EmergencyCall.Designer.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\EmergencyCall.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:07:58.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Emergency Response System\\UI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\DSAL\\Finals\\Emergency Response System\\Emergency Response System\\UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "Emergency Response System\\UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:21:22.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

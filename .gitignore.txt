@@ -1,0 +1,17 @@
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Visual Studio cache
+.vs/
+
+# Temporary files
+*.tmp
+*.cache
