@@ -1,5 +1,16 @@
 # 🚑 Smart Emergency Response System
 
+![Stars](https://img.shields.io/github/stars/Mairaarshad19/Smart_Emergency_Response_System?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Mairaarshad19/Smart_Emergency_Response_System?style=flat-square)
+![Status](https://img.shields.io/badge/status-completed-brightgreen?style=flat-square)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat-square&logo=windows&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+
 A C# Windows Forms application for managing **emergency calls, ambulance dispatch, and coverage** using **Data Structures and Algorithms (DSA)**.
 
 ---
