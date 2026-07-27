@@ -46,7 +46,7 @@ A C# Windows Forms application for managing **emergency calls, ambulance dispatc
 
 ## Screenshots
 
-![Routes](ss/routes.png)
+![Routes](screenshots/routes.png)
 
 ## ⚙️ How It Works
 1. Operator logs an emergency (intersection + severity).
