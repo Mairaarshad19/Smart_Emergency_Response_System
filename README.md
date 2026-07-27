@@ -44,6 +44,10 @@ A C# Windows Forms application for managing **emergency calls, ambulance dispatc
 
 ---
 
+## Screenshots
+
+![Routes](ss/routes.png)
+
 ## ⚙️ How It Works
 1. Operator logs an emergency (intersection + severity).
 2. System finds nearest available ambulance using **Priority Queue**.
